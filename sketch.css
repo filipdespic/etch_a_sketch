@@ -1,0 +1,48 @@
+.cell {
+    border: 1px solid gray;
+    min-width: 20px;
+    min-height: 20px;
+    display: inline-block;
+    margin-right: 2px;
+  }
+
+  .newCell{
+    border: 1px solid gray;
+    min-width: 20px;
+    min-height: 20px;
+    display: inline-block;
+    margin-right: 2px;
+  }
+  
+  #heading{
+    background-color:grey;
+    color: white;
+    text-align: center;
+    border-color: black;
+  
+  }
+
+  #headingTwo{
+    color: black;
+    text-align: center;
+    text-decoration: underline;
+
+  }
+
+  #restart{
+    color:white;
+    background-color:black;
+    border-radius: 60%;
+    margin: 20px;
+    height: 40px;
+    width: 80px;
+  }
+ 
+  #container{
+    text-align: center;
+  }
+ 
+  #buttondiv{
+    text-align: center;
+  }
+
